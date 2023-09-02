@@ -1,4 +1,3 @@
-Make:add("biber","biber ${input}")
 Make:htlatex {}
 Make:biber {}
 Make:htlatex {}
